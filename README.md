@@ -20,3 +20,4 @@ git clone; https://github.com/maureenmbithe/THEREEN-COLLECTIONS
 
 ## Copyright and License information
 (c) 2022 Maureen Mutinda
+THEREEN-COLLECTIONS
