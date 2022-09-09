@@ -16,14 +16,14 @@ Online Business
 - HTML
 - CSS
 - GIT/GITHUB
-
 ## Project setup instructions
 - Open the cloned code on VS code
 
 - Run with live server
+git clone; https://git.com/maureenmbithe/THEREEN-COLLECTIONS
 
 ## Link to live site on GitHub Pages
-git clone; https://github.com/maureenmbithe/THEREEN-COLLECTIONS
+LIVE LINK; https://maureenmbithe/github.com.io/THEREEN-COLLECTIONS
 
 ## Copyright and License information
 (c) 2022 Maureen Mutinda
