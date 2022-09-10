@@ -1,14 +1,91 @@
+
+ 
 body{
 
-background-image: url(../THEREEN-COLLECTIONS/image\ 01.jpg)
+    background-color: rgb(133, 116, 126);
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.content-wrapper{
+
+    padding: 10px 30px;
+
 }
 
 p{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: larger;
-    color: blueviolet;
 
+    text-align: justify;
 
+}
 
+h1{
+
+    text-align: center;
+
+}
+
+.highlight{
+
+    font-weight: 700;
+
+    color: forestgreen;
+
+}
+
+h1, h2{
+
+    font-weight: 400;
+
+}
+
+ 
+
+ul li{
+
+    list-style-type: square;
+
+    margin-bottom: 10px;
+
+    margin-left: 50px;
+
+}
+
+/* unvisited link */
+
+a:link {
+
+    color: rgb(11, 13, 12);
+
+}
+
+ 
+
+/* visited link */
+
+a:visited {
+
+    color: green;
+
+}
+
+ 
+
+/* mouse over link */
+
+a:hover {
+
+    color: rgb(105, 255, 143);
+
+}
+
+ 
+
+/* selected link */
+
+a:active {
+
+    color: blue;
 
 }
