@@ -11,6 +11,7 @@ body{
     color: azure;
 
     background: url('/image\ 02.jpeg')
+    
  
 }
 
@@ -89,9 +90,9 @@ a:visited {
 
 /* mouse over link */
 
-a:hover {
+a:hover { font-style: italic;
 
-    color: rgb(105, 255, 143);
+    color: rgb(81, 100, 109);
 
 }
 
