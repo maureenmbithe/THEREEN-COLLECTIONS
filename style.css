@@ -28,15 +28,15 @@ p{
    
     text-align: center;
     font style: italic;
-    font-family: 
     
-    
-
 }
 
 h1{
 
     text-align: center;
+    font-style: italic;
+    font-size: larger;
+    color: aliceblue;
 
 }
 
@@ -48,7 +48,8 @@ h1{
 
 }
 
-h1, h2{
+h1, 
+h2{
 
     font-weight: 400;
 
