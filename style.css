@@ -2,7 +2,6 @@
  
 body{
 
-    background-color: rgb(194, 143, 99);
 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: larger;
@@ -10,12 +9,12 @@ body{
     text-decoration: aliceblue;
     color: rgb(253, 255, 240);
 
-    background: url('IMAGES/image\ 03.jpg)
-    
+background-color: blueviolet;
+
  
 }
 
-#center {
+ #center {
     color: rgb(255, 240, 246);
 }
     
