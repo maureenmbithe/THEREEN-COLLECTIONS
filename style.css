@@ -2,21 +2,21 @@
  
 body{
 
-    background-color: rgb(146, 95, 51);
+    background-color: rgb(194, 143, 99);
 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: larger;
     font-style: italic;
     text-decoration: aliceblue;
-    color: azure;
+    color: rgb(253, 255, 240);
 
-    background: url('/image\ 02.jpeg')
+    background: url('IMAGES/image\ 03.jpg)
     
  
 }
 
 #center {
-    color: rgb(240, 255, 253);
+    color: rgb(255, 240, 246);
 }
     
 .content-wrapper{
