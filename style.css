@@ -10,12 +10,12 @@ body{
     text-decoration: aliceblue;
     color: azure;
 
-    background: url('/image\ 02.jpg')
+    background: url('/image\ 02.jpeg')
  
 }
 
 #center {
-    color: rgb(240, 249, 255);
+    color: rgb(240, 255, 253);
 }
     
 .content-wrapper{
