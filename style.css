@@ -2,10 +2,15 @@
  
 body{
 
-    background-color: rgb(51, 95, 146);
+    background-color: rgb(146, 95, 51);
 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    font-style: italic;
+    text-decoration-color: azure;
 
+    background: url('/image\ 01.jpg')
+ 
 }
 
 .content-wrapper{
@@ -15,8 +20,12 @@ body{
 }
 
 p{
-
-    text-align: justify;
+   
+    text-align: center;
+    font style: italic;
+    font-family: 
+    
+    
 
 }
 
